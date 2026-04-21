@@ -46,7 +46,7 @@ smartresume-ai/
 ├── utils.py
 ├── requirements.txt
 ├── .gitignore
-├── .env.example
+├── .env
 ├── README.md
 ├── LICENSE
 └── assets/
